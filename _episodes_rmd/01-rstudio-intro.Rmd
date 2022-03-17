@@ -82,17 +82,17 @@ in the top left.
 
 > ## R scripts
 > 
-> Any commands that you write in the R console can be saved in to a file
-> to be re-run again.  Files containg R code to be ran in this way are 
-> called R scripts.  R scripts have `.R` at the end of their names to 
+> Any commands that you write in the R console can be saved in a file
+> to be re-run again.  Files containing R code to be run in this way are 
+> called R scripts.  R scripts have a `.R` extension at the end of their names to 
 > let you know what they are.
 {: .callout}
 
 ## Workflow within RStudio
 There are two main ways one can work within RStudio:
 
-1. Test and play within the interactive R console then copy code into
-a .R file to run later.
+1. Test and play within the interactive R console then copy the code into
+a R scripts (.R) file to run later.
    *  This works well when doing small tests and initially starting off.
    *  It quickly becomes laborious
 2. Start writing in a .R file and use RStudio's short cut keys for the Run command
